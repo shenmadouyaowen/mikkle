@@ -9,6 +9,11 @@
             "email": "shenmadouyao@163.com"
         }
     ],
+	"autoload": {
+        "psr-4": {
+            "mikkle\\": "src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
