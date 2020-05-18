@@ -7,7 +7,7 @@
  * Time: 12:14
  */
 
-namespace mikkle\tp_api;
+namespace shenmadouyaowen\tp_api;
 
 
 class ApiValues

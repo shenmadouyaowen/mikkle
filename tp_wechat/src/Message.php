@@ -1,5 +1,5 @@
 <?php
-namespace mikkle\tp_wechat\src;
+namespace shenmadouyaowen\tp_wechat\src;
 use mikkle\tp_wechat\base\WechatBase;
 use mikkle\tp_wechat\support\Curl;
 use mikkle\tp_wechat\support\StaticFunction;

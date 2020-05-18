@@ -7,7 +7,7 @@
  * Time: 15:57
  */
 
-namespace mikkle\tp_master;
+namespace shenmadouyaowen\tp_master;
 use think\Facade;
 
 class Cookie extends Facade

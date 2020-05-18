@@ -7,7 +7,7 @@
  * Time: 11:05
  */
 
-namespace mikkle\tp_tools;
+namespace shenmadouyaowen\tp_tools;
 
 
 use mikkle\tp_master\Cache;

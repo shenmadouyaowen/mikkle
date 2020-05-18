@@ -7,7 +7,7 @@
  * Time: 10:15
  */
 
-namespace mikkle\tp_master;
+namespace shenmadouyaowen\tp_master;
 /**
  * Class Db
  * @package think

@@ -7,7 +7,7 @@
  * Time: 14:26
  */
 
-namespace mikkle\tp_wechat\support;
+namespace shenmadouyaowen\tp_wechat\support;
 
 
 use mikkle\tp_wechat\base\ErrCode;

@@ -7,7 +7,7 @@
  * Time: 11:58
  */
 
-namespace mikkle\tp_aliyun;
+namespace shenmadouyaowen\tp_aliyun;
 
 use mikkle\tp_master\Exception;
 use mikkle\tp_master\Config;

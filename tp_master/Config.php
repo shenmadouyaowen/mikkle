@@ -7,7 +7,7 @@
  * Time: 16:11
  */
 
-namespace mikkle\tp_master;
+namespace shenmadouyaowen\tp_master;
 
 
 use think\Facade;

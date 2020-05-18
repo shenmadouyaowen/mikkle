@@ -7,7 +7,7 @@
  * Time: 8:57
  */
 
-namespace mikkle\tp_wxpay;
+namespace shenmadouyaowen\tp_wxpay;
 
 
 use mikkle\tp_master\Config;

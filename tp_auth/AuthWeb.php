@@ -7,7 +7,7 @@
  * Time: 15:01
  */
 
-namespace mikkle\tp_auth;
+namespace shenmadouyaowen\tp_auth;
 use app\base\model\system\SystemAdmin;
 use app\base\model\system\SystemNode;
 use mikkle\tp_master\Cache;

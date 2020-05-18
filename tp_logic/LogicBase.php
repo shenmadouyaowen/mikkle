@@ -7,7 +7,7 @@
  * Time: 9:00
  */
 
-namespace mikkle\tp_logic;
+namespace shenmadouyaowen\tp_logic;
 
 
 

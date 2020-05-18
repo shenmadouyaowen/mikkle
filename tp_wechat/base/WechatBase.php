@@ -7,7 +7,7 @@
  * Time: 9:07
  */
 
-namespace mikkle\tp_wechat\base;
+namespace shenmadouyaowen\tp_wechat\base;
 
 
 use mikkle\tp_master\Cache;

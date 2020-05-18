@@ -7,7 +7,7 @@
  * Time: 8:37
  */
 
-namespace mikkle\tp_tools;
+namespace shenmadouyaowen\tp_tools;
 
 class DbDoc
 {

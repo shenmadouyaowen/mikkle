@@ -7,7 +7,7 @@
  * Time: 10:56
  */
 
-namespace mikkle\tp_model;
+namespace shenmadouyaowen\tp_model;
 
 
 class ModelTools

@@ -7,7 +7,7 @@
  * Time: 15:10
  */
 
-namespace mikkle\tp_api;
+namespace shenmadouyaowen\tp_api;
 
 use mikkle\tp_master\Exception;
 use mikkle\tp_master\Request;

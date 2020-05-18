@@ -7,7 +7,7 @@
  * Time: 15:10
  */
 
-namespace mikkle\tp_api;
+namespace shenmadouyaowen\tp_api;
 
 
 class ApiOptions
