@@ -7,7 +7,7 @@
  * Time: 15:32
  */
 
-namespace mikkle\tp_tools;
+namespace shenmadouyaowen\tp_tools;
 
 
 class Curl

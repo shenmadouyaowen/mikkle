@@ -7,7 +7,7 @@
  * Time: 14:07
  */
 
-namespace mikkle\tp_swoole;
+namespace shenmadouyaowen\tp_swoole;
 
 
 class WebsocketServer

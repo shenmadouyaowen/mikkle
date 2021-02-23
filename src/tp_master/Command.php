@@ -7,7 +7,7 @@
  * Time: 10:26
  */
 
-namespace mikkle\tp_master;
+namespace shenmadouyaowen\tp_master;
 
 
 abstract class Command extends \think\console\Command

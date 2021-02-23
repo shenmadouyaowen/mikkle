@@ -7,7 +7,7 @@
  * Time: 13:55
  */
 
-namespace mikkle\tp_wechat\support;
+namespace shenmadouyaowen\tp_wechat\support;
 
 /**
  * 静态方法类库

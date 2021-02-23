@@ -7,7 +7,7 @@
  * Time: 15:36
  */
 
-namespace mikkle\tp_redis;
+namespace shenmadouyaowen\tp_redis;
 use mikkle\tp_master\Exception;
 use mikkle\tp_master\Log;
 

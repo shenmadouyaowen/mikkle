@@ -7,7 +7,7 @@
  * Time: 11:36
  */
 
-namespace mikkle\tp_master;
+namespace shenmadouyaowen\tp_master;
 
 
 

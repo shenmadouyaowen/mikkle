@@ -6,7 +6,7 @@
  * Date: 2017/06/27
  * Time: 9:04
  */
-namespace mikkle\tp_tools;
+namespace shenmadouyaowen\tp_tools;
 use mikkle\tp_master\Exception;
 use mikkle\tp_master\Request;
 use mikkle\tp_master\Log;

@@ -7,7 +7,7 @@
  * Time: 21:03
  */
 
-namespace mikkle\tp_redis;
+namespace shenmadouyaowen\tp_redis;
 
 
 use mikkle\tp_master\Db;

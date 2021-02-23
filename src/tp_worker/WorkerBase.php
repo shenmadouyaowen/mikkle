@@ -7,7 +7,7 @@
  * Time: 10:10
  */
 
-namespace mikkle\tp_worker;
+namespace shenmadouyaowen\tp_worker;
 
 
 use mikkle\tp_master\Db;

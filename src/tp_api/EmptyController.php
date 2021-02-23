@@ -7,7 +7,7 @@
  * Time: 14:19
  */
 
-namespace mikkle\tp_api;
+namespace shenmadouyaowen\tp_api;
 
 
 use mikkle\tp_master\Config;

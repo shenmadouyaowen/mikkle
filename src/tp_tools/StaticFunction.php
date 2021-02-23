@@ -7,7 +7,7 @@
  * Time: 10:28
  */
 
-namespace mikkle\tp_tools;
+namespace shenmadouyaowen\tp_tools;
 
 use mikkle\tp_master\Loader;
 use mikkle\tp_master\Request;

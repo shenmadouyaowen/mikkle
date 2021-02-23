@@ -7,7 +7,7 @@
  * Time: 15:32
  */
 
-namespace mikkle\tp_wechat\support;
+namespace shenmadouyaowen\tp_wechat\support;
 
 
 class Curl

@@ -7,7 +7,7 @@
  * Time: 10:48
  */
 
-namespace mikkle\tp_model;
+namespace shenmadouyaowen\tp_model;
 
 use mikkle\tp_master\Model;
 

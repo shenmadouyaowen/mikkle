@@ -7,7 +7,7 @@
  * Time: 14:22
  */
 
-namespace mikkle\tp_wechat\support;
+namespace shenmadouyaowen\tp_wechat\support;
 
 
 class PKCS7Encoder

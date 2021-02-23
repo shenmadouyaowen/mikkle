@@ -7,7 +7,7 @@
  * Time: 15:18
  */
 
-namespace mikkle\tp_wechat\base;
+namespace shenmadouyaowen\tp_wechat\base;
 
 
 class WeChatConfig

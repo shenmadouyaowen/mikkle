@@ -7,7 +7,7 @@
  * Time: 18:08
  */
 
-namespace mikkle\tp_wxpay\config;
+namespace shenmadouyaowen\tp_wxpay\config;
 
 
 class WxpayConfig

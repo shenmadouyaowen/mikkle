@@ -7,7 +7,7 @@
  * Time: 16:40
  */
 
-namespace mikkle\tp_wxpay\src;
+namespace shenmadouyaowen\tp_wxpay\src;
 
 
 use mikkle\tp_wxpay\base\Tools;

@@ -7,7 +7,7 @@
  * Time: 17:57
  */
 
-namespace mikkle\tp_wechat;
+namespace shenmadouyaowen\tp_wechat;
 
 
 use mikkle\tp_wechat\base\BaseWechatApi;

@@ -7,7 +7,7 @@
  * Time: 15:14
  */
 
-namespace mikkle\tp_controller;
+namespace shenmadouyaowen\tp_controller;
 
 use think\Controller;
 

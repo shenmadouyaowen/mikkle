@@ -6,7 +6,7 @@
  * Time: 9:50
  */
 
-namespace mikkle\tp_master;
+namespace shenmadouyaowen\tp_master;
 
 use think\Facade;
 use think\image\Exception as ImageException;

@@ -7,7 +7,7 @@
  * Time: 19:37
  */
 
-namespace mikkle\tp_aliyun;
+namespace shenmadouyaowen\tp_aliyun;
 
 
 class Sign

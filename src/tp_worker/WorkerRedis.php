@@ -7,7 +7,7 @@
  * Time: 10:16
  */
 
-namespace mikkle\tp_worker;
+namespace shenmadouyaowen\tp_worker;
 
 
 use mikkle\tp_redis\Redis;

@@ -7,7 +7,7 @@
  * Time: 9:46
  */
 
-namespace mikkle\tp_tools;
+namespace shenmadouyaowen\tp_tools;
 use mikkle\tp_master\Db;
 use mikkle\tp_master\Exception;
 use mikkle\tp_master\Log;

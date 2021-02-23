@@ -7,7 +7,7 @@
  * Time: 17:54
  */
 
-namespace mikkle\tp_wechat\base;
+namespace shenmadouyaowen\tp_wechat\base;
 
 use mikkle\tp_master\Config;
 use mikkle\tp_master\Exception;

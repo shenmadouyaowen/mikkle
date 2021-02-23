@@ -7,7 +7,7 @@
  * Time: 9:19
  */
 
-namespace mikkle\tp_wxpay\base;
+namespace shenmadouyaowen\tp_wxpay\base;
 
 
 use mikkle\tp_master\Exception;
